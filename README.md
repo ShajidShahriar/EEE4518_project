@@ -40,3 +40,9 @@ links:
 https://docs.python.org/3/library/math.html#math.radians
 
 
+references:
+•	https://sportbot.tech/how-does-a-tennis-ball-launcher-machine-work/ 
+•	https://www.gaics.org/userdata/upload/file/JBSM2021_2-002.pdf
+•	https://github.com/ShajidShahriar/EEE4518_project/blob/master/player_detection_random.py
+
+
