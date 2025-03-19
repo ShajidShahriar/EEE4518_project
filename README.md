@@ -36,8 +36,7 @@ links:
 -https://docs.opencv.org/3.4/dc/da3/tutorial_copyMakeBorder.html
 -https://google.github.io/mediapipe/solutions/pose.html
 -https://pyserial.readthedocs.io/en/latest/pyserial_api.html#serial.Serial
--
-https://docs.python.org/3/library/math.html#math.radians
+-https://docs.python.org/3/library/math.html#math.radians
 
 
 references:
